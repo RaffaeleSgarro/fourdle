@@ -8,11 +8,10 @@ const props = defineProps({
 </template>
 <style scoped>
 .Key {
-    font-size: 2em;
+    font-size: 1em;
     font-weight: bold;
-    margin: 0.5em;
-    padding: 0.5em;
-    border: 1px solid black;
+    margin: 0.1em;
+    padding: 0.1em;
     display: inline-block;
     text-align: center;
     width: 1.5em;

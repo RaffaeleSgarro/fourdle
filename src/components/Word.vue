@@ -19,11 +19,10 @@ const wordLength = ref(5);
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 1em;
 }
 .Attempt {
     display: flex;
     justify-content: center;
-    margin: 0.5em;
+    margin: 0;
 }
 </style>
